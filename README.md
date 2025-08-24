@@ -14,7 +14,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 
 # 📈Estatísticas 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dockrco&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count-4)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dockrco&theme=dracula&layout=compact&custom_title=Tecnologias&langs)
 
 # 📱Contatos
 
